@@ -1,0 +1,74 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "name": "A Tale of Two Cities",
+            "price": 12.99,
+            "author": "Charles Dickens",
+            "authorId": "cd"
+        },
+        {
+            "id": 2,
+            "name": "Oliver Twist",
+            "price": 14.99,
+            "author": "Charles Dickens",
+            "authorId": "cd"
+        },
+        {
+            "id": 3,
+            "name": "Great Expectations",
+            "price": 15.99,
+            "author": "Charles Dickens",
+            "authorId": "cd"
+        },
+        {
+            "id": 4,
+            "name": "War and Peach",
+            "price": 16.99,
+            "author": "Leo Tolestoy",
+            "authorId": "lt"
+        },
+        {
+            "id": 5,
+            "name": "Anna Karinina",
+            "price": 12.99,
+            "author": "Leo Tolestoy",
+            "authorId": "lt"
+        },
+        {
+            "id": 6,
+            "name": "Les Miserables",
+            "price": 10.99,
+            "author": "Victor Hugo",
+            "authorId": "vh"
+        },
+        {
+            "id": 7,
+            "name": "Les Miserables",
+            "price": 10.99,
+            "author": "Victor Hugo",
+            "authorId": "vh"
+        },
+        {
+            "id": 8,
+            "name": "The the vinchi code",
+            "price": 22.33,
+            "author": "Dan Brown",
+            "authorId": "db"
+        },
+        {
+            "id": 9,
+            "name": "Inferno",
+            "price": 20.33,
+            "author": "Dan Brown",
+            "authorId": "db"
+        },
+        {
+            "id": 10,
+            "name": "Angels and demons",
+            "price": 21.33,
+            "author": "Dan Brown",
+            "authorId": "db"
+        }
+    ]
+}
