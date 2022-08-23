@@ -116,6 +116,24 @@
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2017/03/15/13/27/rough-horn-2146181__340.jpg",
             "category": "mountains"
+        },
+        {
+            "userId": 5,
+            "id": 6,
+            "title": "White dove on the fly",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "date": "2022-04-12",
+            "image": "https://cdn.pixabay.com/photo/2017/07/18/18/24/dove-2516641__340.jpg",
+            "category": "birds"
+        },
+        {
+            "userId": 5,
+            "id": 7,
+            "title": "Beauty and the beast",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "date": "2022-04-12",
+            "image": "https://cdn.pixabay.com/photo/2018/01/25/14/12/nature-3106213__340.jpg",
+            "category": "relationship"
         }
     ],
     "blogUser": [
@@ -142,6 +160,12 @@
             "userId": 4,
             "name": "Nowshin",
             "image": "https://cdn.pixabay.com/photo/2017/03/01/22/18/avatar-2109804__340.png"
+        },
+        {
+            "id": 4,
+            "userId": 5,
+            "name": "Hasan",
+            "image": "https://cdn.pixabay.com/photo/2018/08/28/12/41/avatar-3637425__340.png"
         }
     ]
 }
