@@ -20,41 +20,6 @@
             "price": 15.99,
             "author": "Charles Dickens",
             "authorId": "cd"
-        },
-        {
-            "id": 4,
-            "name": "War and Peach",
-            "price": 16.99,
-            "author": "Leo Tolestoy",
-            "authorId": "lt"
-        },
-        {
-            "id": 5,
-            "name": "Anna Karinina",
-            "price": 12.99,
-            "author": "Leo Tolestoy",
-            "authorId": "lt"
-        },
-        {
-            "id": 6,
-            "name": "Les Miserables",
-            "price": 10.99,
-            "author": "Victor Hugo",
-            "authorId": "vh"
-        },
-        {
-            "id": 7,
-            "name": "Les Miserables",
-            "price": 10.99,
-            "author": "Victor Hugo",
-            "authorId": "vh"
-        },
-        {
-            "id": 8,
-            "name": "The the vinchi code",
-            "price": 22.33,
-            "author": "Dan Brown",
-            "authorId": "db"
         }
     ],
     "blogPosts": [
@@ -62,7 +27,7 @@
             "userId": 1,
             "id": 1,
             "title": "Birds on the paradise of the earth",
-            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
+            "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et trum rerum est autem sunt rem eveniet architecto",
             "date": "2022-02-14",
             "image": "https://cdn.pixabay.com/photo/2022/08/12/10/27/crows-7381423__340.jpg",
             "category": [
@@ -86,7 +51,7 @@
             "userId": 3,
             "id": 3,
             "title": "Snowy peek near you",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehendet blanditiis voluptate porro veaperiam non debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2017/02/14/03/03/ama-dablam-2064522__340.jpg",
             "category": [
@@ -98,7 +63,7 @@
             "userId": 3,
             "id": 4,
             "title": "Valey of flower",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenanditiis voluptate porro vel nihil molestiqui aperiam non debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2015/04/23/22/01/mountains-736886__340.jpg",
             "category": [
@@ -109,7 +74,7 @@
             "userId": 4,
             "id": 5,
             "title": "Snowy peek as big as earth",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolors voluptate porro vel nihili aperiam non debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2017/03/15/13/27/rough-horn-2146181__340.jpg",
             "category": [
@@ -131,7 +96,7 @@
             "userId": 5,
             "id": 7,
             "title": "Beauty and the beast",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "est rerum tempore vitae\nsequi sidolor beatae ea doloresptate porro vel nihil molestiae utn debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2018/01/25/14/12/nature-3106213__340.jpg",
             "category": [
@@ -142,7 +107,7 @@
             "userId": 1,
             "id": 8,
             "title": "A boat drifting on a calm river",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "olores nequlestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2014/10/26/17/19/fisherman-504098__340.jpg",
             "category": [
@@ -154,7 +119,7 @@
             "userId": 2,
             "id": 9,
             "title": "Sunset on a fall",
-            "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+            "body": "oluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
             "date": "2022-04-12",
             "image": "https://cdn.pixabay.com/photo/2016/11/19/18/57/godafoss-1840758__340.jpg",
             "category": [
