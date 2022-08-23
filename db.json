@@ -77,16 +77,18 @@
             "id": 1,
             "title": "Birds on the paradise of the earth",
             "body": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-            "date": "1-02-2022",
-            "image": "https://cdn.pixabay.com/photo/2022/08/12/10/27/crows-7381423__340.jpg"
+            "date": "2022-02-14",
+            "image": "https://cdn.pixabay.com/photo/2022/08/12/10/27/crows-7381423__340.jpg",
+            "category": "birds"
         },
         {
             "userId": 1,
             "id": 2,
             "title": "Mountains on the other side of the world",
             "body": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
-            "date": "02-04-2020",
-            "image": "https://cdn.pixabay.com/photo/2022/07/10/19/28/mountains-7313638__340.jpg"
+            "date": "2022-04-12",
+            "image": "https://cdn.pixabay.com/photo/2022/07/10/19/28/mountains-7313638__340.jpg",
+            "category": "mountains"
         }
     ],
     "blogUser": [
